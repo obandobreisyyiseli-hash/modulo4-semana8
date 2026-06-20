@@ -1,0 +1,5 @@
+Permite monitorear el estado del sistema: sabes si hay poco espacio, poca memoria o procesos consumiendo demasiado.
+Ayuda a prevenir fallos: puedes detectar problemas antes de que afecten a los usuarios.
+Facilita la seguridad: identificas usuarios activos o comportamientos sospechosos.
+Optimiza el rendimiento: puedes ajustar recursos para que el servidor funcione de forma eficiente.
+Mejora la toma de decisiones: tienes datos reales para saber qué cambios hacer o qué problemas resolver.
